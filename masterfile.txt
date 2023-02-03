@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is confusing, where is my text
-=======
-this is confusing, is it not
->>>>>>> second
